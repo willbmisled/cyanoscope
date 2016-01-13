@@ -1,0 +1,11 @@
+---
+title: "ODK"
+author: "B"
+date: "Wednesday, July 29, 2015"
+output: html_document
+---
+
+* <http://build.opendatakit.org/> wbm@g c
+* <https://appengine.google.com/> gmail login
+* <http://plus.epicollect.net/login.php> gmail credentials
+* <http://plus.epicollect.net/cyanoScope> dashboard to create or edit forms and view data

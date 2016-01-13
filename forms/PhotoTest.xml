@@ -1,0 +1,53 @@
+<h:html xmlns="http://www.w3.org/2002/xforms" xmlns:h="http://www.w3.org/1999/xhtml" xmlns:ev="http://www.w3.org/2001/xml-events" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:jr="http://openrosa.org/javarosa">
+  <h:head>
+    <h:title>PhotoTest</h:title>
+    <model>
+      <instance>
+        <data id="build_PhotoTest_1438179656">
+          <meta>
+            <instanceID/>
+          </meta>
+          <name/>
+          <date/>
+          <Location/>
+          <Photo/>
+        </data>
+      </instance>
+      <itext>
+        <translation lang="eng">
+          <text id="/data/name:label">
+            <value>What is your name?</value>
+          </text>
+          <text id="/data/date:label">
+            <value>What is the date? (mm/dd/yyyy)</value>
+          </text>
+          <text id="/data/Location:label">
+            <value>GPS location</value>
+          </text>
+          <text id="/data/Photo:label">
+            <value>Take a photo</value>
+          </text>
+        </translation>
+      </itext>
+      <bind nodeset="/data/meta/instanceID" type="string" readonly="true()" calculate="concat('uuid:', uuid())"/>
+      <bind nodeset="/data/name" type="string"/>
+      <bind nodeset="/data/date" type="date"/>
+      <bind nodeset="/data/Location" type="geopoint"/>
+      <bind nodeset="/data/Photo" type="binary"/>
+    </model>
+  </h:head>
+  <h:body>
+    <input ref="/data/name">
+      <label ref="jr:itext('/data/name:label')"/>
+    </input>
+    <input ref="/data/date">
+      <label ref="jr:itext('/data/date:label')"/>
+    </input>
+    <input ref="/data/Location">
+      <label ref="jr:itext('/data/Location:label')"/>
+    </input>
+    <upload ref="/data/Photo" mediatype="image/*">
+      <label ref="jr:itext('/data/Photo:label')"/>
+    </upload>
+  </h:body>
+</h:html>
