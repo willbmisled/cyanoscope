@@ -1,0 +1,29 @@
+---
+title: "20180625_warwick_pond"
+author: "Bryan Milstead"
+date: "`r format(Sys.time(), '%d %B %Y')`"
+output: html_document
+---
+
+```{r setup, include=FALSE, echo = FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+library(tidyverse)
+library(here)
+library(knitr)
+
+options(stringsAsFactors = FALSE)
+```
+
+
+## Field Notes
+* Who: Stephen Shivers and Bryan
+* Where: Warwick Pond (site 2)
+* When: June 25, 2018
+* How:  3 m vertical tow with a 50 `r paste0(expression("\U03BC"), "m")` plankton net.  Sample stored cold overnight then viewed with a inverted microscope.
+* General Comments:  Beautiful day on the lake.  Light breeze, partly cloudy, the water was greenish but did not appear to be blooming.  Using the algae torch we saw elevate chlorophyll a (28-38 `r paste0(expression("\U03BC"), "g / l")`) but low phycocyanin (2-3 `r paste0(expression("\U03BC"), "g / l")`).
+* Qualitative phytoplankton assessment - relative abundance assessed visually on a 1 - 5 scale with 1 being low abundance (rare).  We found the following taxa:
+
+Taxon            | Abundance | link
+-----------------|-----------|--------------------------------------------------------------------
+Keratella        | 5         | https://www.inaturalist.org/observations/13812321
+Keratella        | 5         | [iNaturalist](https://www.inaturalist.org/observations/13812321)
