@@ -30,18 +30,18 @@ Taxon                       | Abundance | link
 ----------------------------|-----------|--------------------------------------------------------------------
 Unidentified Small Cells    |     5     | https://www.inaturalist.org/observations/13812624
 *Keratella*                 |     5     | https://www.inaturalist.org/observations/13812321
-*Mougeotia*                 |     3     | https://www.inaturalist.org/observations/13828760
+*Aulacoseira*               |     3     | https://www.inaturalist.org/observations/13828760
 *Woronichinia*              |     3     | https://www.inaturalist.org/observations/13828870
-*Snowella*                  |     2     | https://www.inaturalist.org/observations/13828988
-Euglenozoa                  |     1     | https://www.inaturalist.org/observations/13829081
+*Sphaerocystis*             |     2     | https://www.inaturalist.org/observations/13828988
+*Euglena*                   |     1     | https://www.inaturalist.org/observations/13829081
 *Eudorina elegans*          |     1     | https://www.inaturalist.org/observations/13829228
 Unknown Cyanobacteria       |     1     | https://www.inaturalist.org/observations/13829269
 Small Flagellated Cell      |     1     | https://www.inaturalist.org/observations/13829324
 *Peridinium*                |     1     | https://www.inaturalist.org/observations/13829379
 *Fragilaria*                |     1     | https://www.inaturalist.org/observations/13829424
 *Asterionella*              |     1     | https://www.inaturalist.org/observations/13829453
-Unknown 4 green cells       |     1     | https://www.inaturalist.org/observations/13829480
-Unknown 2 green cells       |     1     | https://www.inaturalist.org/observations/13829513
+*Chooroccus*                |     1     | https://www.inaturalist.org/observations/13829480
+*Cosmarium*                 |     1     | https://www.inaturalist.org/observations/13829513
 Unknown 1 spherical cells   |     1     | https://www.inaturalist.org/observations/13829525
 
 
