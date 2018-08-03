@@ -2,7 +2,7 @@
 title: "20180802_mashapaug_pond"
 author: "Bryan Milstead"
 date: "`r format(Sys.time(), '%d %B %Y')`"
-output: html_document
+output: word_document
 ---
 
 ```{r setup, include=FALSE, echo = FALSE}
@@ -15,7 +15,7 @@ options(stringsAsFactors = FALSE)
 ```
 
 <!-- 
-For field notes and taxa list see: https://github.com/willbmisled/cyanoscope/blob/master/fieldnotes/20180802_mashapaug_pond
+For field notes and taxa list see: https://github.com/willbmisled/cyanoscope/blob/master/fieldnotes/20180802_mashapaug_pond.docx
 -->
 
 ## Field Notes
@@ -27,11 +27,16 @@ For field notes and taxa list see: https://github.com/willbmisled/cyanoscope/blo
 * Qualitative phytoplankton assessment - relative abundance assessed visually on a 1 - 5 scale with 1 being low abundance (rare).  We found the following taxa:
 
 Taxon                       | Abundance | link
-------------------++----------|-----------|--------------------------------------------------------------------
-*Dolichospermum* linear form |     5     | https://www.inaturalist.org/observations/13828870
-*Dolichospermum* curly form |     3     | 
-*Fragilaria*                |     1     | https://www.inaturalist.org/observations/13829424
-
+------------------------------|-----------|--------------------------------------------------------------------
+*Dolichospermum* linear form |     5     | https://www.inaturalist.org/observations/15084161
+*Dolichospermum* curly form |     3     | https://www.inaturalist.org/observations/15084511
+*Microcystis wesenbergii* |     4     | https://www.inaturalist.org/observations/15084623
+*Microcystis aeruginosa* |     3     | https://www.inaturalist.org/observations/15084623
+*Aphanizomenon flosaquae* |   2  | https://www.inaturalist.org/observations/15085005
+*Woronichinia* |   5  | https://www.inaturalist.org/observations/15085150
+*Pediastrum* |  1  | https://www.inaturalist.org/observations/15085225
+*Fragilaria*   |     1     | https://www.inaturalist.org/observations/15085245
+*Ceratium*  |  1  |https://www.inaturalist.org/observations/15085266
 
 
 
