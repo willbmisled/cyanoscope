@@ -15,7 +15,7 @@ options(stringsAsFactors = FALSE)
 ```
 
 <!-- 
-For field notes and taxa list see: https://github.com/willbmisled/cyanoscope/blob/master/fieldnotes/20180625_warwick_pond.html
+For field notes and taxa list see: https://github.com/willbmisled/cyanoscope/blob/master/fieldnotes/20180625_warwick_pond.Rmd
 -->
 
 ## Field Notes
