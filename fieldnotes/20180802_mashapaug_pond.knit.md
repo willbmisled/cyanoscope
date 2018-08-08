@@ -1,18 +1,11 @@
 ---
 title: "20180802_mashapaug_pond"
 author: "Bryan Milstead"
-date: "`r format(Sys.time(), '%d %B %Y')`"
+date: "08 August 2018"
 output: html_document
 ---
 
-```{r setup, include=FALSE, echo = FALSE}
-knitr::opts_chunk$set(echo = TRUE)
-library(tidyverse)
-library(here)
-library(knitr)
 
-options(stringsAsFactors = FALSE)
-```
 
 <!-- 
 For field notes and taxa list see: https://github.com/willbmisled/cyanoscope/blob/master/fieldnotes/20180802_mashapaug_pond.rmd
@@ -22,8 +15,8 @@ For field notes and taxa list see: https://github.com/willbmisled/cyanoscope/blo
 * Who: Stephen Shivers and Bryan
 * Where: Warwick Pond 
 * When: August 2, 2018
-* How:  3 m vertical tow with a 50 `r paste0(expression("\U03BC"), "m")` plankton net.  Sample stored cold overnight then viewed with a inverted microscope.
-* General Comments:  The lake has a nasty bloom.  Hot and muggy day.  The algae torch indicated a total chlorophyll around 50 `r paste0(expression("\U03BC"), "g / l")` of which almost all was attributed to cyanobacteria.
+* How:  3 m vertical tow with a 50 μm plankton net.  Sample stored cold overnight then viewed with a inverted microscope.
+* General Comments:  The lake has a nasty bloom.  Hot and muggy day.  The algae torch indicated a total chlorophyll around 50 μg / l of which almost all was attributed to cyanobacteria.
 * Qualitative phytoplankton assessment - relative abundance assessed visually on a 1 - 5 scale with 1 being low abundance (rare).  We found the following taxa:
 
 Taxon                       | Abundance | link
