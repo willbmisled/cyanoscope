@@ -2,7 +2,7 @@
 title: "20180625_warwick_pond"
 author: "Bryan Milstead"
 date: "`r format(Sys.time(), '%d %B %Y')`"
-output: html_document
+output: github_document
 ---
 
 ```{r setup, include=FALSE, echo = FALSE}
