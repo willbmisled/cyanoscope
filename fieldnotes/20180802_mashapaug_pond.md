@@ -10,7 +10,7 @@ Field Notes
 -----------
 
 -   Who: Stephen Shivers and Bryan
--   Where: Warwick Pond
+-   Where: Mashapaug Pond (-71.435237, 41.793529)
 -   When: August 2, 2018
 -   How: 3 m vertical tow with a 50 μm plankton net. Sample stored cold overnight then viewed with a inverted microscope.
 -   General Comments: The lake has a nasty bloom. Hot and muggy day. The algae torch indicated a total chlorophyll around 50 μg / l of which almost all was attributed to cyanobacteria.

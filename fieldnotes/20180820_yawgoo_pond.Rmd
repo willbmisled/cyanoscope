@@ -1,0 +1,51 @@
+---
+title: "20180820_yawgoo_pond"
+author: "Bryan Milstead"
+date: "`r format(Sys.time(), '%d %B %Y')`"
+output: github_document
+---
+
+```{r setup, include=FALSE, echo = FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+library(tidyverse)
+library(here)
+library(knitr)
+
+options(stringsAsFactors = FALSE)
+```
+
+<!-- 
+  For field notes and taxa list see: https://github.com/willbmisled/cyanoscope/blob/master/fieldnotes/20180820_yawgoo_pond.md
+-->
+  
+## Field Notes
+* Who: Stephen Shivers and Bryan
+* Where: Yawgoo Pond (-71.435237, 41.793529)
+* When: August 20, 2018
+* How:  3 m vertical tow with a 50 `r paste0(expression("\U03BC"), "m")` plankton net.  Sample stored one lab bench then viewed with a inverted microscope over several days.
+* Some of the cells may have degradated due to the long wait time for processing.
+* General Comments:  The lake was beautiful. The algae torch indicated a total chlorophyll around 10 `r paste0(expression("\U03BC"), "g / l")` with very littlecyanobacteria.
+* Qualitative phytoplankton assessment - relative abundance assessed visually on a 1 - 5 scale with 1 being low abundance (rare).  We found the following taxa:
+  
+  Taxon                       | Abundance | link
+------------------------------|-----------|--------------------------------------------------------------------
+*Synura*|     5     | https://www.inaturalist.org/observations/15820030
+*Woronichinia* | 4 | https://www.inaturalist.org/observations/15820813
+Unknown-lettuce like | 4 | https://www.inaturalist.org/observations/15820250
+*Dolichospermum* | 3 | https://www.inaturalist.org/observations/15820734
+*Ulothrix* | 3 | https://www.inaturalist.org/observations/15820684
+*Sphaerocystis* | 3 | https://www.inaturalist.org/observations/15821106
+*Microcystis aeruginosa* | 2 | https://www.inaturalist.org/observations/15820788
+Unknown small cells | 2 | https://www.inaturalist.org/observations/15821131
+Unknown filamentous Cyano | 1 | https://www.inaturalist.org/observations/15820599
+Unknown pacman cells | 1 | https://www.inaturalist.org/observations/15820845 
+Unknow chrysophyte? | 1 | https://www.inaturalist.org/observations/15820767
+
+
+
+
+
+
+
+
+
