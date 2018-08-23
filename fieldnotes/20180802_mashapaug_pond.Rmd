@@ -2,7 +2,7 @@
 title: "20180802_mashapaug_pond"
 author: "Bryan Milstead"
 date: "`r format(Sys.time(), '%d %B %Y')`"
-output: html_document
+output: github_document
 ---
 
 ```{r setup, include=FALSE, echo = FALSE}
@@ -18,8 +18,8 @@ options(stringsAsFactors = FALSE)
   For field notes and taxa list see: https://github.com/willbmisled/cyanoscope/blob/master/fieldnotes/20180802_mashapaug_pond.rmd
 -->
   
-  ## Field Notes
-  * Who: Stephen Shivers and Bryan
+## Field Notes
+* Who: Stephen Shivers and Bryan
 * Where: Warwick Pond 
 * When: August 2, 2018
 * How:  3 m vertical tow with a 50 `r paste0(expression("\U03BC"), "m")` plankton net.  Sample stored cold overnight then viewed with a inverted microscope.
